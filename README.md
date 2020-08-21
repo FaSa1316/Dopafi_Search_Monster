@@ -1,4 +1,4 @@
-# Dopafi_Search_Monster
+# Dofapi_Search_Monster
 Notre programme du jour consiste à retrouver des informations concernant quelques monstres "Larves", "Monstres des cavernes", "Monstres des Plaines herbeuses" sur le site de jeu "Dofapi". Ici, nous allons utiliser les API REST pour pouvoir récupérer ses informations. Sur ce, vous pouvez consulter sur le site de les documentations les concernant et l'API de dofapi sur ces liens ci-dessous :
 - https://dofapi.fr/
 - https://fr.dofus.dofapi.fr/explorer/
