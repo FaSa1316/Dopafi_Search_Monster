@@ -26,7 +26,10 @@ Ici encore, nous allons utiliser le terminal en tapant le code suivant :
 ruby app.rb
 
 ```
-Le programme va vous demandez ensuite le type de monstre que vous voulez avoir et selon votre requêten, le programme va sauvegarder les informations ou ses ressources qu'il aura touvé dans un fichier sous format JSON que l'on a crée préalablement à l'avance. L'emplacement sera visible dans le dossier db, et nommé selon les types de monstres pré-cité : "monstre_larve.json", "monstre_caverne.json", "monstre_plaine_herbeuse.json".
+Le programme va vous demandez ensuite le type de monstre que vous voulez avoir et selon votre requêten, le programme va sauvegarder les informations ou ses ressources qu'il aura touvé dans un fichier sous format JSON que l'on a crée préalablement à l'avance. L'emplacement sera visible dans le dossier db, et nommé selon les types de monstres pré-cité : 
+- "monstre_larve.json", 
+- "monstre_caverne.json",
+- "monstre_plaine_herbeuse.json".
 Vous pouvez ainsi sélectionner votre fichier dans ce dossier, récupérer les informations qui vous sera utiles et à nous la gloire ;) 
 
 # Auteur
